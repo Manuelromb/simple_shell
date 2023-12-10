@@ -9,5 +9,5 @@
 
 #define MAX_INPUT_SIZE 1024
 
-void display_prompt();
+void _display_prompt(void);
 #endif /*MAIN_H*/
